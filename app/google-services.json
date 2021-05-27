@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459447882919",
+    "project_id": "fir-upload-example-38966",
+    "storage_bucket": "fir-upload-example-38966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459447882919:android:838584a85afbef1f073782",
+        "android_client_info": {
+          "package_name": "com.francosoft.firebaseuploadexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459447882919-h8f20thm3mq979clk9hv1p6m9akmoadk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChrZ2vQuUMuieRj0n7316noaqCUZLWfjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459447882919-h8f20thm3mq979clk9hv1p6m9akmoadk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
